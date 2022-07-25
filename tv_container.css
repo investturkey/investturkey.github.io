@@ -1,0 +1,23 @@
+
+#tv_container {
+    width: 533px; 
+    height: 456px; 
+    position: relative;
+}
+#tv_container:after {
+    content: '';
+    display: block;
+    background: url('images/videothumb.png') no-repeat top left transparent;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    z-index: 5;
+}
+#tv_container video {
+    position: absolute;
+    top: 25px; 
+    left: 25px; 
+    z-index: 10;
+}
