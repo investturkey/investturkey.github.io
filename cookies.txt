@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+optimumminners.com	TRUE	/	FALSE	1999999999	PHPSESSID	fa72jhfro8gsk6hf7cto3n7774
+optimumminners.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+.yandex.net	TRUE	/	FALSE	1999999999	_yasc	AfjvOAhnjZ8uzz8uSTAw2r0u1EqD7kMbws5/4Aczk9LewA==
+
